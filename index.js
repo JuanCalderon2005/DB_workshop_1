@@ -63,7 +63,6 @@ document.addEventListener("DOMContentLoaded", () => {
         { id: 59, title: "Ejercicio 59", description: "Cambia la música favorita a ‘Classical’ para todos los usuarios cuya edad es mayor que 60 y viven en ‘USA’.", imgSrc: "./assets/img/Actualizacion/Ejercicio 19.png" },
         { id: 60, title: "Ejercicio 60", description: "Incrementa el número de hijos en 2 para todos los usuarios cuyo estado es ‘active’ y tienen activos menores que 50000.", imgSrc: "./assets/img/Actualizacion/Ejercicio 20.png" },
         { id: 61, title: "Ejercicio 61", description: "Elimina todos los usuarios que tienen más de 3 hijos y cuyo patrimonio es menor que 100000.", imgSrc: "./assets/img/Eliminacion/Ejercicio 1.png" },
-        { id: 61, title: "Ejercicio 61", description: "Elimina todos los usuarios que tienen más de 3 hijos y cuyo patrimonio es menor que 100000.", imgSrc: "./assets/img/Eliminacion/Ejercicio 1.png" },
         { id: 62, title: "Ejercicio 62", description: "Elimina todos los usuarios cuyo correo personal contiene ‘spam’ y tienen más de 50 años.", imgSrc: "./assets/img/Eliminacion/Ejercicio 2.png" },
         { id: 63, title: "Ejercicio 63", description: "Elimina todos los usuarios que no tienen activos pero tienen pasivos mayores que 0.", imgSrc: "./assets/img/Eliminacion/Ejercicio 3.png" },
         { id: 64, title: "Ejercicio 64", description: "Elimina todos los usuarios que están inactivos y cuyo nombre o apellido contiene la letra ‘z’.", imgSrc: "./assets/img/Eliminacion/Ejercicio 4.png" },
